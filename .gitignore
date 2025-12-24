@@ -1,0 +1,3 @@
+providers/*
+terraform/*
+providers.json
